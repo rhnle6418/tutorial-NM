@@ -14,6 +14,10 @@ Description      : myNM.h
 
 #include "myMatrix.h"
 
+// Tutorial
+// New function added
+void gradient2(gouble xin[]);
+
 // Matrix addition
 extern	Matrix	addMat(Matrix _A, Matrix _B);
 
